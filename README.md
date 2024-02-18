@@ -2,7 +2,6 @@
     <p>
     <img src="./images/BannerMain2.png">
     </p>
-	<br />
 	<p>
 		<a href="https://discord.gg/6CuMuv5Yzg"><img src="https://img.shields.io/discord/977544174125609010?logo=discord&color=5865F2" alt="Discord server" /></a>
 		<a href="https://youtube.com/@Mr_HrS"><img src="https://img.shields.io/youtube/channel/subscribers/UCVmz5jIwiQEXv0sGw1fPIbQ" alt="Youtube Subscribers" /></a>
