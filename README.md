@@ -1,10 +1,7 @@
 <div align="center">
     <p>
-    <img src="./images/BannerMain.png">
+    <img src="./images/BannerMain1.png">
     </p>
-	<p>
-		<a href="https://mrhrs.xyz"><img src="https://media.discordapp.net/attachments/1105785961536827394/1156617133866889316/HrS-Text.png?ex=65159f25&is=65144da5&hm=1f6361962d958fba6c82a5dbfc9901c24642d2d8f156c7d2198ac73054142947&=&width=1440&height=492" width="546" alt="rxl-rest" /></a>
-	</p>
 	<br />
 	<p>
 		<a href="https://discord.gg/6CuMuv5Yzg"><img src="https://img.shields.io/discord/977544174125609010?logo=discord&color=5865F2" alt="Discord server" /></a>
