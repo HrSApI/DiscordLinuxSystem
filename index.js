@@ -74,4 +74,4 @@ client.on(Events.MessageCreate, async (message) => {
 
 client.login(process.env.TOKEN);
 
-HandleError();
+HandleError(client);

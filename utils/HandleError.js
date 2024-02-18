@@ -1,4 +1,4 @@
-module.exports = function HandleError() {
+module.exports = function HandleError(client) {
   process.on("uncaughtException", function (error) {
     console.error(error);
   });
